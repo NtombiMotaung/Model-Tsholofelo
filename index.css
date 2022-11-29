@@ -134,6 +134,7 @@ body {
     grid-column-end: 5;
     grid-row-start: 3;
     grid-row-end: 6;
+    object-fit: cover;
   
   }
   
